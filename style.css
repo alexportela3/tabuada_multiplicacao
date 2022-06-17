@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(8, 229, 245);
+    font: normal 15pt Arial;
+    color: rgb(83, 245, 110);            /*cor da palavra*/
+}
+
+header{
+    color: rgb(235, 79, 6);
+    text-align: center;            /*coloca o texto no centro*/
+
+}
+
+section{
+    border-radius: 15px;           /*borda arredondada*/
+    padding: 15px;
+    width: 500px;                  /*largura da borda*/
+    margin:auto;
+    box-shadow: 5px 10px 20px  rgb(247, 6, 46); /*contorno da borda 5px(dimensão direita) 10px(dimensão de baixo) 20px(dimensão central)*/ 
+    color:orangered;                 /*centraliza automaticamente*/
+}
+div{
+    text-align: center;  /*coloca todo texto dentro das divs no centro*/
+}
+footer{
+    color: orangered;
+    text-align: center;            /*coloca todo texto dentro do footer no centro*/
+    font-style: italic;            /*muda fonte do texto*/
+
+}
