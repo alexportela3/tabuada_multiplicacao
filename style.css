@@ -25,5 +25,8 @@ footer{
     color: orangered;
     text-align: center;            /*coloca todo texto dentro do footer no centro*/
     font-style: italic;            /*muda fonte do texto*/
+}
 
+.img{
+    border: 2px solid black;
 }
